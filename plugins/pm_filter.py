@@ -681,6 +681,10 @@ async def auto_filter(client, msg, spoll=False):
             for file in files
         ]
 
+    btn.append(
+    [InlineKeyboardButton("How to download 🤔", url="https://t.me/srilinks4k/47"),]
+)
+
     if offset != "":
         key = f"{message.chat.id}-{message.message_id}"
         BUTTONS[key] = search
