@@ -93,6 +93,13 @@ async def next_page(bot, query):
         off_set = None
     else:
         off_set = offset - 10
+
+    # How to Download button
+
+    btn.append(
+    [InlineKeyboardButton("How to download 🤔", url="https://t.me/srilinks4k/47"),]
+)
+
     if n_offset == 0:
         btn.append(
             [InlineKeyboardButton("⏪ BACK", callback_data=f"next_{req}_{key}_{off_set}"),
