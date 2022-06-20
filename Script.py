@@ -16,7 +16,7 @@ class script(object):
 
 📝 ʟᴀɴɢᴜᴀɢᴇ: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
+🗂️ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 
 📡 ʜᴏsᴛᴇᴅ ᴏɴ: 𝙷𝙴𝚁𝙾𝙺𝚄
 
@@ -110,7 +110,7 @@ class script(object):
 
 <b>NOTE:</b>
 
-these are the extra features of srilinks4k
+these are the extra features of SM18FILTERbot
 
 <b>Commands and Usage:</b>
 
