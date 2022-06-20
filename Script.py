@@ -1,5 +1,6 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
+
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 
 
 ɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ + ᴍᴏᴠɪᴇ sᴇᴀʀᴄʜ + ᴍᴀɴᴜᴀʟ ꜰɪʟᴛᴇʀ ʙᴏᴛ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ʏᴏᴜ ᴄᴀɴ sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇs ᴠɪᴀ ɪɴʟɪɴᴇ. ɪ ᴄᴀɴ ᴀʟsᴏ ᴀᴅᴅ ꜰɪʟᴛᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ😌  """
@@ -13,11 +14,15 @@ class script(object):
 
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/+dArymJkvX9IyNjNl>SRILINKS4K SUPPORT</a>
-
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ
 
-💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :: private Repo """
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/+dArymJkvX9IyNjNl>SUPPORT</a>
+
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+mi3F-bMrNQ1hMWRl>BOTS UPDATES</a>
+
+
+
+💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : private Repo """
     SOURCE_TXT = """<b>NOTE:</b>
 - This is a private source project. 
 - Source - https://t.me/srilinks4k  
