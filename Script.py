@@ -24,7 +24,7 @@ ABOUT_TXT = """🤖 ʙᴏᴛ ɴᴀᴍᴇ: {}
 ⚡ ꜱʜᴏʀᴛɴᴇʀ ; ᴅᴜʟɪɴᴋ
 
 💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : private Repo """
-    SOURCE_TXT = """<b>NOTE:</b>
+   SOURCE_TXT = """<b>NOTE:</b>
 - This is a private source project. 
 - Source - https://t.me/srilinks4k  
 
