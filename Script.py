@@ -24,7 +24,7 @@ class script(object):
 
     SOURCE_TXT = """<b>NOTE:</b>
 
-- SM18FILTERBOT is a open source project. 
+- SM18FILTERBOT is a not open source project. 
 
 - Source - https://t.me/srilinks4k
 
