@@ -24,7 +24,7 @@ class script(object):
 
     SOURCE_TXT = """<b>NOTE:</b>
 
-- Bot Was Not open source project. 
+- SMRITI MANDHANA BOT WAS NOT OPEN SOURCE PROJECT . 
 
 - Source - https://t.me/srilinks4k
 
