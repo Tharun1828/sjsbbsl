@@ -20,7 +20,7 @@ class script(object):
 
 📡 ʜᴏsᴛᴇᴅ ᴏɴ: 𝙷𝙴𝚁𝙾𝙺𝚄
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://https://t.me/srilinks4ksupport>SUPPORT</a>"""
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/srilinks4ksupport>SUPPORT</a>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 
