@@ -38,7 +38,7 @@ class script(object):
 
 <b>NOTE:</b>
 
-1. bot should have admin privillage.
+1. SM18FILTERBOT hould have admin privillage.
 
 2. only admins can add filters in a chat.
 
@@ -56,13 +56,13 @@ class script(object):
 
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Sm18filterbot Supports both url and alert inline buttons.
+- SM18FILTERBOT Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
 
-2. Eva Maria supports buttons with any telegram media type.
+2. SM18FILTERBOT supports buttons with any telegram media type.
 
 3. Buttons should be properly parsed as markdown format
 
@@ -110,7 +110,7 @@ class script(object):
 
 <b>NOTE:</b>
 
-these are the extra features of SM18FILTERbot
+these are the extra features of SM18FILTERBOT
 
 <b>Commands and Usage:</b>
 
