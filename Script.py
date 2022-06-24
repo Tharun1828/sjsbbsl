@@ -121,6 +121,8 @@ these are the extra features of SM18FILTERBOT
 • /imdb  - <code>get the film information from IMDb source.</code>
 
 • /search  - <code>get the film information from various sources.</code>"""
+    
+• /link - <code>reply to any Telegram media 
 
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
