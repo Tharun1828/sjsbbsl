@@ -2,35 +2,35 @@ class script(object):
 
     START_TXT = """𝙷𝙴𝙻𝙾 {},
 
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, Iam A Simple Auto Filter + Movie Search + Manual Filter Bot. I Can Provide Movies In Telegram Groups. You Can Search Movies Via Inline. I Can Also Add Filters In Telegram Groups.  Just Add Me To Your Group And Enjoy"""
 
     HELP_TXT = """𝙷𝙴𝚈 {}
 
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
+    ABOUT_TXT = """🤖 ʙᴏᴛ ɴᴀᴍᴇ: {}
 
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Sridhar_sm18>SRIDHAR SM18</a>
 
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+📝 ʟᴀɴɢᴜᴀɢᴇ: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
+🗂️ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
+📡 ʜᴏsᴛᴇᴅ ᴏɴ: 𝙷𝙴𝚁𝙾𝙺𝚄
 
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/srilinks4ksupport>SUPPORT</a>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 
-- Eva Maria is a open source project. 
+- SM18FILTERbot was private repo. 
 
-- Source - https://github.com/EvamariaTG/EvaMaria  
+- Source - https://t.me/srilinks4k
 
 <b>DEVS:</b>
 
-- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
+- <a href=https://t.me/Sridhar_sm18>SRIDHAR SM18</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -38,7 +38,7 @@ class script(object):
 
 <b>NOTE:</b>
 
-1. eva maria should have admin privillage.
+1. SM18FILTERbot should have admin privillage.
 
 2. only admins can add filters in a chat.
 
@@ -56,19 +56,19 @@ class script(object):
 
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Eva Maria Supports both url and alert inline buttons.
+- SM18FILTERbot Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
 
-2. Eva Maria supports buttons with any telegram media type.
+2. SM18FILTERbot supports buttons with any telegram media type.
 
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
 
-<code>[Button Text](buttonurl:https://t.me/EvaMariaBot)</code>
+<code>[Button Text](buttonurl:https://t.me/SM18FILTERbot)</code>
 
 <b>Alert buttons:</b>
 
@@ -110,7 +110,7 @@ class script(object):
 
 <b>NOTE:</b>
 
-these are the extra features of Eva Maria
+these are the extra features of SM18FILTERbot 
 
 <b>Commands and Usage:</b>
 
@@ -152,15 +152,15 @@ This module only works for my admins
 
 • /broadcast - <code>to broadcast a message to all users</code>"""
 
-    STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
+    STATUS_TXT = """📁 ᴛᴏᴛᴀʟ ꜰɪʟᴇs: <code>{}</code>
 
-★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
+👤 ᴛᴏᴛᴀʟ ᴜsᴇʀs: <code>{}</code>
 
-★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
+👥 ᴛᴏᴛᴀʟ ᴄʜᴀᴛs: <code>{}</code>
 
-★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
+⚙️ ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ: <code>{}</code> 𝙼𝚒𝙱
 
-★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
+🆓 ꜰʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code> 𝙼𝚒𝙱"""
 
     LOG_TEXT_G = """#NewGroup
 
