@@ -7,6 +7,7 @@ else
   git clone https://github.com/GHSrilinks4k/Sm18filter4k
 fi
 cd /Sm18filter4k
+ls
 pip3 install -U -r requirements.txt
 echo "Starting Bot...."
 python3 bot.py
