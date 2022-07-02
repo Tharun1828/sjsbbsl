@@ -4,9 +4,9 @@ then
   git clone https://github.com/GHSrilinks4k/Sm18filter4k
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /Sm18filter4k
+  git clone https://github.com/GHSrilinks4k/Sm18filter4k
 fi
-cd /EvaMaria
+cd /Sm18filter4k
 pip3 install -U -r requirements.txt
 echo "Starting Bot...."
 python3 bot.py
