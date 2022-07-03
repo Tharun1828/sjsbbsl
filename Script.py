@@ -24,13 +24,13 @@ class script(object):
 
     SOURCE_TXT = """<b>NOTE:</b>
 
-- SM18FILTERbot was private repo. 
+- SM18FILTERBOT was private repo. 
 
 - Source - https://t.me/srilinks4k
 
 <b>DEVS:</b>
 
-- <a href=https://t.me/Sridhar_sm18>SRIDHAR SM18</a>"""
+- <a href=https://t.me/SMRITIMANDHANA_SRILINKS4KBOT>SRIDHAR SM18</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -38,7 +38,7 @@ class script(object):
 
 <b>NOTE:</b>
 
-1. SM18FILTERbot should have admin privillage.
+1. SM18FILTERBOT should have admin privillage.
 
 2. only admins can add filters in a chat.
 
@@ -56,7 +56,7 @@ class script(object):
 
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- SM18FILTERbot Supports both url and alert inline buttons.
+- SM18FILTERBOT Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 
@@ -110,7 +110,7 @@ class script(object):
 
 <b>NOTE:</b>
 
-these are the extra features of SM18FILTERbot 
+these are the extra features of SM18FILTERBOT 
 
 <b>Commands and Usage:</b>
 
