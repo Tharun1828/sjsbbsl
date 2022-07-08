@@ -10,7 +10,7 @@ class script(object):
 
     ABOUT_TXT = """🤖 ʙᴏᴛ ɴᴀᴍᴇ: {}
 
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/SMRITIMANDHANA_SRILINKS4KBOT>SRIDHAR SM18</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Sridhar_sm18>SRIDHARSM18</a>
 
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 
@@ -20,7 +20,7 @@ class script(object):
 
 📡 ʜᴏsᴛᴇᴅ ᴏɴ: 𝙷𝙴𝚁𝙾𝙺𝚄
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/srilinks4ksupport>SUPPORT</a>"""
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/srilinks4ksupport>SUPPORTGROUP</a>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 
@@ -30,7 +30,7 @@ class script(object):
 
 <b>DEVS:</b>
 
-- <a href=https://t.me/SMRITIMANDHANA_SRILINKS4KBOT>SRIDHAR SM18</a>"""
+- <a href=https://t.me/Sridhar_sm18>SRIDHARSM18</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
