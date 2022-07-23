@@ -10,7 +10,7 @@ class script(object):
 
     ABOUT_TXT = """🤖 ʙᴏᴛ ɴᴀᴍᴇ: {}
 
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Sridhar_sm18>SRIDHARSM18</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/srilinks4k_admin_bot>BERLIN✨❣️</a>
 
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 
