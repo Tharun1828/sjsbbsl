@@ -379,15 +379,15 @@ def humanbytes(size):
 
 
 
-####################  Dulink  ####################
+####################  Tnlink  ####################
 
 async def get_shortlink(link):
     https = link.split(":")[0]
     if "http" == https:
         https = "https"
         link = link.replace("http", https)
-    url = f'https://du-link.in/api'
-    params = {'api': '5486d155f5186ac5e5bf128f8a54d72fe3680a28',
+    url = f'https://Tnlink.in/api'
+    params = {'api': '5cc7e548ecb43e7cd19b8c9a6d20963cd49afeb2',
               'url': link,
               }
 
