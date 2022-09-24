@@ -10,17 +10,17 @@ class script(object):
 
     ABOUT_TXT = """🤖 ʙᴏᴛ ɴᴀᴍᴇ: {}
 
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Belikeberlin>BERLIN✨❣️</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Belikeberlin>Berlin✨❣️</a>
 
-📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ: <a href=https://github.com/pyrogram/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a>
 
-📝 ʟᴀɴɢᴜᴀɢᴇ: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org/>ᴘʏᴛʜᴏɴ</a>
 
-🗂️ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
+🗂️ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <a https://www.mongodb.com>MongoDb</a>
 
-📡 ʜᴏsᴛᴇᴅ ᴏɴ: 𝙷𝙴𝚁𝙾𝙺𝚄
+📡 ʜᴏsᴛᴇᴅ ᴏɴ: <a href=http://heroku.com/>ʜᴇʀᴏᴋᴜ</a>
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/srilinks4ksupport>SUPPORTGROUP</a>"""
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/srilinks4ksupport>Supportgroup</a>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 
@@ -30,7 +30,7 @@ class script(object):
 
 <b>DEVS:</b>
 
-- <a href=https://t.me/Sridhar_sm18>SRIDHARSM18</a>"""
+- <a href=https://t.me/belikeberlin>Berlin✨❣️</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
