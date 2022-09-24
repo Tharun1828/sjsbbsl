@@ -8,19 +8,19 @@ class script(object):
 
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
-    ABOUT_TXT = """🤖 ʙᴏᴛ ɴᴀᴍᴇ: {}
+    ABOUT_TXT = """🤖 Bot Name: {}
 
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Belikeberlin>Berlin✨❣️</a>
+👨‍💻 Developer: <a href=https://t.me/Belikeberlin>Berlin</a>
 
-📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ: <a href=https://github.com/pyrogram/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a>
+📚 Framework: pyrogram
 
-📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org/>ᴘʏᴛʜᴏɴ</a>
+📝 Language: Python 
 
-🗂️ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <a https://www.mongodb.com>MongoDb</a>
+🗂️ 𝙳ata Base: MongoDB
 
-📡 ʜᴏsᴛᴇᴅ ᴏɴ: <a href=http://heroku.com/>ʜᴇʀᴏᴋᴜ</a>
+📡 Hosted On: Heroku
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/srilinks4ksupport>Supportgroup</a>"""
+👥 Support Group: <a href=https://t.me/srilinks4ksupport>Supportgroup</a>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 
@@ -30,7 +30,7 @@ class script(object):
 
 <b>DEVS:</b>
 
-- <a href=https://t.me/belikeberlin>Berlin✨❣️</a>"""
+- <a href=https://t.me/belikeberlin>Berlin</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
