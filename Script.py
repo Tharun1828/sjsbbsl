@@ -30,7 +30,7 @@ class script(object):
 
 <b>DEVS:</b>
 
-- <a href=https://t.me/belikeberlin>Berlin</a>"""
+- <a href=https://t.me/ms_alone1>MS</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
