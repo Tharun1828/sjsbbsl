@@ -24,7 +24,7 @@ class script(object):
 
     SOURCE_TXT = """<b>NOTE:</b>
 
-- SM18FILTERBOT was private repo. 
+- MSFILTERXBOT was private repo. 
 
 - Source - https://t.me/+AaJO1Ej6T441YjQ1
 
